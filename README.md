@@ -23,6 +23,11 @@ Please carry out as early as possible!
 -> Have a google account ready (can be a "throw-away" account)
 
 ### Friday
+
+#### Morning
+
+-> Find the script here: https://rawcdn.githack.com/DominicWeber/CUSO_UNIL/e8387ad5c92f9b99231cb36bfd5a0619a03577e0/ScholarlyEditions/text-technologies-dse.html
+
 #### Afternoon
 -> Register an account at https://www.geovistory.org/
 
